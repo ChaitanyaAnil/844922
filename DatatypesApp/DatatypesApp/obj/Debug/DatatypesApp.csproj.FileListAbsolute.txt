@@ -1,0 +1,7 @@
+D:\c#.net\DatatypesApp\DatatypesApp\obj\Debug\DatatypesApp.csprojResolveAssemblyReference.cache
+D:\c#.net\DatatypesApp\DatatypesApp\obj\Debug\DatatypesApp.csproj.CoreCompileInputs.cache
+D:\c#.net\DatatypesApp\DatatypesApp\bin\Debug\DatatypesApp.exe.config
+D:\c#.net\DatatypesApp\DatatypesApp\bin\Debug\DatatypesApp.exe
+D:\c#.net\DatatypesApp\DatatypesApp\bin\Debug\DatatypesApp.pdb
+D:\c#.net\DatatypesApp\DatatypesApp\obj\Debug\DatatypesApp.exe
+D:\c#.net\DatatypesApp\DatatypesApp\obj\Debug\DatatypesApp.pdb

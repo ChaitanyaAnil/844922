@@ -1,0 +1,9 @@
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\bin\Debug\ConsoleAppClsLibSample.exe.config
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\bin\Debug\ConsoleAppClsLibSample.exe
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\bin\Debug\ConsoleAppClsLibSample.pdb
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\bin\Debug\StringOperationsClsLib.dll
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\bin\Debug\StringOperationsClsLib.pdb
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\obj\Debug\ConsoleAppClsLibSample.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\obj\Debug\ConsoleAppClsLibSample.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\obj\Debug\ConsoleAppClsLibSample.exe
+D:\c#.net\ConsoleAppClsLibSample\ConsoleAppClsLibSample\obj\Debug\ConsoleAppClsLibSample.pdb

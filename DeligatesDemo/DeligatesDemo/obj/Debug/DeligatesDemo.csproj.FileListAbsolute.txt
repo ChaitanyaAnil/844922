@@ -1,0 +1,7 @@
+D:\c#.net\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe.config
+D:\c#.net\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe
+D:\c#.net\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.pdb
+D:\c#.net\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csprojResolveAssemblyReference.cache
+D:\c#.net\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.exe
+D:\c#.net\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.pdb

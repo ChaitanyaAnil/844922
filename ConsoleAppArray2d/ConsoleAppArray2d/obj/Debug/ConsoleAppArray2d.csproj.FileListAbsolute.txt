@@ -1,0 +1,7 @@
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\obj\Debug\ConsoleAppArray2d.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\obj\Debug\ConsoleAppArray2d.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\bin\Debug\ConsoleAppArray2d.exe.config
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\bin\Debug\ConsoleAppArray2d.exe
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\bin\Debug\ConsoleAppArray2d.pdb
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\obj\Debug\ConsoleAppArray2d.exe
+D:\c#.net\ConsoleAppArray2d\ConsoleAppArray2d\obj\Debug\ConsoleAppArray2d.pdb

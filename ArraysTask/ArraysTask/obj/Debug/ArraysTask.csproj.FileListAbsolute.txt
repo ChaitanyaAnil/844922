@@ -1,0 +1,7 @@
+D:\c#.net\ArraysTask\ArraysTask\obj\Debug\ArraysTask.csprojResolveAssemblyReference.cache
+D:\c#.net\ArraysTask\ArraysTask\obj\Debug\ArraysTask.csproj.CoreCompileInputs.cache
+D:\c#.net\ArraysTask\ArraysTask\bin\Debug\ArraysTask.exe.config
+D:\c#.net\ArraysTask\ArraysTask\bin\Debug\ArraysTask.exe
+D:\c#.net\ArraysTask\ArraysTask\bin\Debug\ArraysTask.pdb
+D:\c#.net\ArraysTask\ArraysTask\obj\Debug\ArraysTask.exe
+D:\c#.net\ArraysTask\ArraysTask\obj\Debug\ArraysTask.pdb

@@ -1,0 +1,7 @@
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\obj\Debug\ConsoleAppControlStruct.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\obj\Debug\ConsoleAppControlStruct.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\bin\Debug\ConsoleAppControlStruct.exe.config
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\bin\Debug\ConsoleAppControlStruct.exe
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\bin\Debug\ConsoleAppControlStruct.pdb
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\obj\Debug\ConsoleAppControlStruct.exe
+D:\c#.net\ConsoleAppControlStruct\ConsoleAppControlStruct\obj\Debug\ConsoleAppControlStruct.pdb

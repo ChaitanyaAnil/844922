@@ -1,0 +1,7 @@
+D:\c#.net\PropAuto\PropAuto\obj\Debug\PropAuto.csprojResolveAssemblyReference.cache
+D:\c#.net\PropAuto\PropAuto\obj\Debug\PropAuto.csproj.CoreCompileInputs.cache
+D:\c#.net\PropAuto\PropAuto\bin\Debug\PropAuto.exe.config
+D:\c#.net\PropAuto\PropAuto\bin\Debug\PropAuto.exe
+D:\c#.net\PropAuto\PropAuto\bin\Debug\PropAuto.pdb
+D:\c#.net\PropAuto\PropAuto\obj\Debug\PropAuto.exe
+D:\c#.net\PropAuto\PropAuto\obj\Debug\PropAuto.pdb

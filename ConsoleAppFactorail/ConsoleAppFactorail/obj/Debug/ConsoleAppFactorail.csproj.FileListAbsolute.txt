@@ -1,0 +1,7 @@
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\obj\Debug\ConsoleAppFactorail.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\obj\Debug\ConsoleAppFactorail.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\bin\Debug\ConsoleAppFactorail.exe.config
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\bin\Debug\ConsoleAppFactorail.exe
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\bin\Debug\ConsoleAppFactorail.pdb
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\obj\Debug\ConsoleAppFactorail.exe
+D:\c#.net\ConsoleAppFactorail\ConsoleAppFactorail\obj\Debug\ConsoleAppFactorail.pdb

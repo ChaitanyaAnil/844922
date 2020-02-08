@@ -1,0 +1,7 @@
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\bin\Debug\CollectionsHandsonTask.exe.config
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\bin\Debug\CollectionsHandsonTask.exe
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\bin\Debug\CollectionsHandsonTask.pdb
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\obj\Debug\CollectionsHandsonTask.csproj.CoreCompileInputs.cache
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\obj\Debug\CollectionsHandsonTask.exe
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\obj\Debug\CollectionsHandsonTask.pdb
+D:\c#.net\CollectionsHandsonTask\CollectionsHandsonTask\obj\Debug\CollectionsHandsonTask.csprojResolveAssemblyReference.cache

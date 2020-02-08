@@ -1,0 +1,7 @@
+D:\c#.net\OopsInheritence\OopsInheritence\bin\Debug\OopsInheritence.exe.config
+D:\c#.net\OopsInheritence\OopsInheritence\bin\Debug\OopsInheritence.exe
+D:\c#.net\OopsInheritence\OopsInheritence\bin\Debug\OopsInheritence.pdb
+D:\c#.net\OopsInheritence\OopsInheritence\obj\Debug\OopsInheritence.csprojResolveAssemblyReference.cache
+D:\c#.net\OopsInheritence\OopsInheritence\obj\Debug\OopsInheritence.csproj.CoreCompileInputs.cache
+D:\c#.net\OopsInheritence\OopsInheritence\obj\Debug\OopsInheritence.exe
+D:\c#.net\OopsInheritence\OopsInheritence\obj\Debug\OopsInheritence.pdb

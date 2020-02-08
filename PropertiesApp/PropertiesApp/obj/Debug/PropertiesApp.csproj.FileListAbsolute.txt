@@ -1,0 +1,7 @@
+D:\c#.net\PropertiesApp\PropertiesApp\bin\Debug\PropertiesApp.exe.config
+D:\c#.net\PropertiesApp\PropertiesApp\bin\Debug\PropertiesApp.exe
+D:\c#.net\PropertiesApp\PropertiesApp\bin\Debug\PropertiesApp.pdb
+D:\c#.net\PropertiesApp\PropertiesApp\obj\Debug\PropertiesApp.csprojResolveAssemblyReference.cache
+D:\c#.net\PropertiesApp\PropertiesApp\obj\Debug\PropertiesApp.csproj.CoreCompileInputs.cache
+D:\c#.net\PropertiesApp\PropertiesApp\obj\Debug\PropertiesApp.exe
+D:\c#.net\PropertiesApp\PropertiesApp\obj\Debug\PropertiesApp.pdb

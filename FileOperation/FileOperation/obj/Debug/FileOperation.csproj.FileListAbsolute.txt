@@ -1,0 +1,7 @@
+D:\c#.net\FileOperation\FileOperation\bin\Debug\FileOperation.exe.config
+D:\c#.net\FileOperation\FileOperation\bin\Debug\FileOperation.exe
+D:\c#.net\FileOperation\FileOperation\bin\Debug\FileOperation.pdb
+D:\c#.net\FileOperation\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+D:\c#.net\FileOperation\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+D:\c#.net\FileOperation\FileOperation\obj\Debug\FileOperation.exe
+D:\c#.net\FileOperation\FileOperation\obj\Debug\FileOperation.pdb

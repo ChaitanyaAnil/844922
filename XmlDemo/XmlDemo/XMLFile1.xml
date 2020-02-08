@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <id>1234</id>
+    <title>the perfect plot</title>
+    <price>123.45</price>
+  </book>
+  <book>
+    <id>2564</id>
+    <title>t</title>
+    <price>123.45</price>
+  </book>
+  <book>
+    <id>3234</id>
+    <title>t</title>
+    <price>123.45</price>
+  </book>
+</books>

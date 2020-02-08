@@ -1,0 +1,7 @@
+D:\c#.net\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+D:\c#.net\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe
+D:\c#.net\XmlDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+D:\c#.net\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\XmlDemo\XmlDemo\obj\Debug\XmlDemo.exe
+D:\c#.net\XmlDemo\XmlDemo\obj\Debug\XmlDemo.pdb
+D:\c#.net\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csprojResolveAssemblyReference.cache

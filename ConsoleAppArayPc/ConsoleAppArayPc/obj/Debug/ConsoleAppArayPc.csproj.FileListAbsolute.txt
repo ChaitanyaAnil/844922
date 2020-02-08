@@ -1,0 +1,2 @@
+D:\c#.net\ConsoleAppArayPc\ConsoleAppArayPc\obj\Debug\ConsoleAppArayPc.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppArayPc\ConsoleAppArayPc\obj\Debug\ConsoleAppArayPc.csproj.CoreCompileInputs.cache

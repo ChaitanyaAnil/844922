@@ -1,0 +1,7 @@
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\obj\Debug\ADOResturant.csproj.CoreCompileInputs.cache
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\bin\Debug\ADOResturant.exe.config
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\bin\Debug\ADOResturant.exe
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\bin\Debug\ADOResturant.pdb
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\obj\Debug\ADOResturant.exe
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\obj\Debug\ADOResturant.pdb
+D:\c#.net\ADO.net\ADOResturant\ADOResturant\obj\Debug\ADOResturant.csprojResolveAssemblyReference.cache

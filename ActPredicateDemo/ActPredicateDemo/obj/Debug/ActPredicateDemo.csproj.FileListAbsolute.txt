@@ -1,0 +1,7 @@
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\bin\Debug\ActPredicateDemo.exe.config
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\bin\Debug\ActPredicateDemo.exe
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\bin\Debug\ActPredicateDemo.pdb
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\obj\Debug\ActPredicateDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\obj\Debug\ActPredicateDemo.exe
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\obj\Debug\ActPredicateDemo.pdb
+D:\c#.net\ActPredicateDemo\ActPredicateDemo\obj\Debug\ActPredicateDemo.csprojResolveAssemblyReference.cache

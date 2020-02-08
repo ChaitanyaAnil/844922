@@ -1,0 +1,6 @@
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\bin\Debug\ConsoleAppLoopstruct.exe.config
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\bin\Debug\ConsoleAppLoopstruct.exe
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\bin\Debug\ConsoleAppLoopstruct.pdb
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\obj\Debug\ConsoleAppLoopstruct.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\obj\Debug\ConsoleAppLoopstruct.exe
+D:\c#.net\ConsoleAppLoopstruct\ConsoleAppLoopstruct\obj\Debug\ConsoleAppLoopstruct.pdb

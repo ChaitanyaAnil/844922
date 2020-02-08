@@ -1,0 +1,7 @@
+D:\c#.net\sampleApp\sampleApp\bin\Debug\sampleApp.exe.config
+D:\c#.net\sampleApp\sampleApp\bin\Debug\sampleApp.exe
+D:\c#.net\sampleApp\sampleApp\bin\Debug\sampleApp.pdb
+D:\c#.net\sampleApp\sampleApp\obj\Debug\sampleApp.csprojResolveAssemblyReference.cache
+D:\c#.net\sampleApp\sampleApp\obj\Debug\sampleApp.csproj.CoreCompileInputs.cache
+D:\c#.net\sampleApp\sampleApp\obj\Debug\sampleApp.exe
+D:\c#.net\sampleApp\sampleApp\obj\Debug\sampleApp.pdb

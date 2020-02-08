@@ -1,0 +1,9 @@
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\bin\Debug\ConsoleAppUsingClassLib.exe.config
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\bin\Debug\ConsoleAppUsingClassLib.exe
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\bin\Debug\ConsoleAppUsingClassLib.pdb
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\bin\Debug\ClassLibCalculation.dll
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\bin\Debug\ClassLibCalculation.pdb
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\obj\Debug\ConsoleAppUsingClassLib.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\obj\Debug\ConsoleAppUsingClassLib.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\obj\Debug\ConsoleAppUsingClassLib.exe
+D:\c#.net\ConsoleAppUsingClassLib\ConsoleAppUsingClassLib\obj\Debug\ConsoleAppUsingClassLib.pdb

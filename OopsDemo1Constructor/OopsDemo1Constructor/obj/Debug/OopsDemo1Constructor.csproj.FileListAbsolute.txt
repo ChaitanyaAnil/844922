@@ -1,0 +1,7 @@
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\bin\Debug\OopsDemo1Constructor.exe.config
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\bin\Debug\OopsDemo1Constructor.exe
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\bin\Debug\OopsDemo1Constructor.pdb
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\obj\Debug\OopsDemo1Constructor.csprojResolveAssemblyReference.cache
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\obj\Debug\OopsDemo1Constructor.csproj.CoreCompileInputs.cache
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\obj\Debug\OopsDemo1Constructor.exe
+D:\c#.net\OopsDemo1Constructor\OopsDemo1Constructor\obj\Debug\OopsDemo1Constructor.pdb

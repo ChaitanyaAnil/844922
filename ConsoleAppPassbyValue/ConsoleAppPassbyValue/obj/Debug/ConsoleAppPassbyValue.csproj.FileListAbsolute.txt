@@ -1,0 +1,7 @@
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\bin\Debug\ConsoleAppPassbyValue.exe.config
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\bin\Debug\ConsoleAppPassbyValue.exe
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\bin\Debug\ConsoleAppPassbyValue.pdb
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\obj\Debug\ConsoleAppPassbyValue.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\obj\Debug\ConsoleAppPassbyValue.exe
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\obj\Debug\ConsoleAppPassbyValue.pdb
+D:\c#.net\ConsoleAppPassbyValue\ConsoleAppPassbyValue\obj\Debug\ConsoleAppPassbyValue.csprojResolveAssemblyReference.cache

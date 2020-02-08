@@ -1,0 +1,7 @@
+D:\c#.net\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\c#.net\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\c#.net\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\c#.net\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csprojResolveAssemblyReference.cache
+D:\c#.net\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\c#.net\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb

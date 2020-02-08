@@ -1,0 +1,7 @@
+D:\c#.net\HandsonProj\HandsonProj\obj\Debug\HandsonProj.csprojResolveAssemblyReference.cache
+D:\c#.net\HandsonProj\HandsonProj\obj\Debug\HandsonProj.csproj.CoreCompileInputs.cache
+D:\c#.net\HandsonProj\HandsonProj\bin\Debug\HandsonProj.exe.config
+D:\c#.net\HandsonProj\HandsonProj\bin\Debug\HandsonProj.exe
+D:\c#.net\HandsonProj\HandsonProj\bin\Debug\HandsonProj.pdb
+D:\c#.net\HandsonProj\HandsonProj\obj\Debug\HandsonProj.exe
+D:\c#.net\HandsonProj\HandsonProj\obj\Debug\HandsonProj.pdb

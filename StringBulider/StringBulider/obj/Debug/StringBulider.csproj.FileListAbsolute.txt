@@ -1,0 +1,7 @@
+D:\c#.net\StringBulider\StringBulider\bin\Debug\StringBulider.exe.config
+D:\c#.net\StringBulider\StringBulider\bin\Debug\StringBulider.exe
+D:\c#.net\StringBulider\StringBulider\bin\Debug\StringBulider.pdb
+D:\c#.net\StringBulider\StringBulider\obj\Debug\StringBulider.csprojResolveAssemblyReference.cache
+D:\c#.net\StringBulider\StringBulider\obj\Debug\StringBulider.csproj.CoreCompileInputs.cache
+D:\c#.net\StringBulider\StringBulider\obj\Debug\StringBulider.exe
+D:\c#.net\StringBulider\StringBulider\obj\Debug\StringBulider.pdb

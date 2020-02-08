@@ -1,0 +1,7 @@
+D:\c#.net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.exe.config
+D:\c#.net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.exe
+D:\c#.net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.pdb
+D:\c#.net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.csprojResolveAssemblyReference.cache
+D:\c#.net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.exe
+D:\c#.net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.pdb

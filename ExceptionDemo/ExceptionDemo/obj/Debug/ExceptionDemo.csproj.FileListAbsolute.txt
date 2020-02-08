@@ -1,0 +1,7 @@
+D:\c#.net\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+D:\c#.net\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+D:\c#.net\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+D:\c#.net\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csprojResolveAssemblyReference.cache
+D:\c#.net\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+D:\c#.net\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

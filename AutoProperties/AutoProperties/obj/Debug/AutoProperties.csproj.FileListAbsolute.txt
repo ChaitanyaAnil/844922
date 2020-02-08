@@ -1,0 +1,7 @@
+D:\c#.net\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe.config
+D:\c#.net\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe
+D:\c#.net\AutoProperties\AutoProperties\bin\Debug\AutoProperties.pdb
+D:\c#.net\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csprojResolveAssemblyReference.cache
+D:\c#.net\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.CoreCompileInputs.cache
+D:\c#.net\AutoProperties\AutoProperties\obj\Debug\AutoProperties.exe
+D:\c#.net\AutoProperties\AutoProperties\obj\Debug\AutoProperties.pdb

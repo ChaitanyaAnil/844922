@@ -1,0 +1,7 @@
+D:\c#.net\OopsAgregation\OopsAgregation\obj\Debug\OopsAgregation.csprojResolveAssemblyReference.cache
+D:\c#.net\OopsAgregation\OopsAgregation\obj\Debug\OopsAgregation.csproj.CoreCompileInputs.cache
+D:\c#.net\OopsAgregation\OopsAgregation\bin\Debug\OopsAgregation.exe.config
+D:\c#.net\OopsAgregation\OopsAgregation\bin\Debug\OopsAgregation.exe
+D:\c#.net\OopsAgregation\OopsAgregation\bin\Debug\OopsAgregation.pdb
+D:\c#.net\OopsAgregation\OopsAgregation\obj\Debug\OopsAgregation.exe
+D:\c#.net\OopsAgregation\OopsAgregation\obj\Debug\OopsAgregation.pdb

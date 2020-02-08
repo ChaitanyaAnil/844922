@@ -1,0 +1,7 @@
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\obj\Debug\OopsHndsonCalc.csprojResolveAssemblyReference.cache
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\obj\Debug\OopsHndsonCalc.csproj.CoreCompileInputs.cache
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\bin\Debug\OopsHndsonCalc.exe.config
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\bin\Debug\OopsHndsonCalc.exe
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\bin\Debug\OopsHndsonCalc.pdb
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\obj\Debug\OopsHndsonCalc.exe
+D:\c#.net\OopsHndsonCalc\OopsHndsonCalc\obj\Debug\OopsHndsonCalc.pdb

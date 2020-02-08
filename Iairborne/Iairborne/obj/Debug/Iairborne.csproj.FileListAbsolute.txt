@@ -1,0 +1,7 @@
+D:\c#.net\Iairborne\Iairborne\bin\Debug\Iairborne.exe.config
+D:\c#.net\Iairborne\Iairborne\bin\Debug\Iairborne.exe
+D:\c#.net\Iairborne\Iairborne\bin\Debug\Iairborne.pdb
+D:\c#.net\Iairborne\Iairborne\obj\Debug\Iairborne.csprojResolveAssemblyReference.cache
+D:\c#.net\Iairborne\Iairborne\obj\Debug\Iairborne.csproj.CoreCompileInputs.cache
+D:\c#.net\Iairborne\Iairborne\obj\Debug\Iairborne.exe
+D:\c#.net\Iairborne\Iairborne\obj\Debug\Iairborne.pdb

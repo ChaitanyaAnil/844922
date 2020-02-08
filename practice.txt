@@ -1,0 +1,4 @@
+**define a class customer with cid,name,address.
+define class bankamount with acounuber,balance.define a vitual intrestamount()
+whic calculates simpleintrest and return Agreaate about 2 classes.
+Define class FixedAccount inheritsBankAccount,overeride the  intrestamount()to calcculate 3%additional to intrest.create objects of fixedaccount class and bankaccount class.Diaplay all data

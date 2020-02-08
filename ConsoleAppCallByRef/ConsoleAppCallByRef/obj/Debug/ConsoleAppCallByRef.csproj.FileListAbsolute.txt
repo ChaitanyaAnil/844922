@@ -1,0 +1,6 @@
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\bin\Debug\ConsoleAppCallByRef.exe.config
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\bin\Debug\ConsoleAppCallByRef.exe
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\bin\Debug\ConsoleAppCallByRef.pdb
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\obj\Debug\ConsoleAppCallByRef.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\obj\Debug\ConsoleAppCallByRef.exe
+D:\c#.net\ConsoleAppCallByRef\ConsoleAppCallByRef\obj\Debug\ConsoleAppCallByRef.pdb

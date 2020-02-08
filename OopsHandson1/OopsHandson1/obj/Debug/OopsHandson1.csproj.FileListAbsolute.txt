@@ -1,0 +1,7 @@
+D:\c#.net\OopsHandson1\OopsHandson1\bin\Debug\OopsHandson1.exe.config
+D:\c#.net\OopsHandson1\OopsHandson1\bin\Debug\OopsHandson1.exe
+D:\c#.net\OopsHandson1\OopsHandson1\bin\Debug\OopsHandson1.pdb
+D:\c#.net\OopsHandson1\OopsHandson1\obj\Debug\OopsHandson1.csprojResolveAssemblyReference.cache
+D:\c#.net\OopsHandson1\OopsHandson1\obj\Debug\OopsHandson1.csproj.CoreCompileInputs.cache
+D:\c#.net\OopsHandson1\OopsHandson1\obj\Debug\OopsHandson1.exe
+D:\c#.net\OopsHandson1\OopsHandson1\obj\Debug\OopsHandson1.pdb

@@ -1,0 +1,7 @@
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\obj\Debug\ConsoleAppParameter.csprojResolveAssemblyReference.cache
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\obj\Debug\ConsoleAppParameter.csproj.CoreCompileInputs.cache
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\bin\Debug\ConsoleAppParameter.exe.config
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\bin\Debug\ConsoleAppParameter.exe
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\bin\Debug\ConsoleAppParameter.pdb
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\obj\Debug\ConsoleAppParameter.exe
+D:\c#.net\ConsoleAppParameter\ConsoleAppParameter\obj\Debug\ConsoleAppParameter.pdb

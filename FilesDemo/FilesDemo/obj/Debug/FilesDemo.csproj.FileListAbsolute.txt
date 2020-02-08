@@ -1,0 +1,6 @@
+D:\c#.net\FilesDemo\FilesDemo\bin\Debug\FilesDemo.exe.config
+D:\c#.net\FilesDemo\FilesDemo\bin\Debug\FilesDemo.exe
+D:\c#.net\FilesDemo\FilesDemo\bin\Debug\FilesDemo.pdb
+D:\c#.net\FilesDemo\FilesDemo\obj\Debug\FilesDemo.csproj.CoreCompileInputs.cache
+D:\c#.net\FilesDemo\FilesDemo\obj\Debug\FilesDemo.exe
+D:\c#.net\FilesDemo\FilesDemo\obj\Debug\FilesDemo.pdb

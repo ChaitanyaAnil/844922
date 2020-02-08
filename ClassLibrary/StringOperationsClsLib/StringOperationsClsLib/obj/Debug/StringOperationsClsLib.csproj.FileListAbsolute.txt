@@ -1,0 +1,5 @@
+D:\c#.net\ClassLibrary\StringOperationsClsLib\StringOperationsClsLib\bin\Debug\StringOperationsClsLib.dll
+D:\c#.net\ClassLibrary\StringOperationsClsLib\StringOperationsClsLib\bin\Debug\StringOperationsClsLib.pdb
+D:\c#.net\ClassLibrary\StringOperationsClsLib\StringOperationsClsLib\obj\Debug\StringOperationsClsLib.csproj.CoreCompileInputs.cache
+D:\c#.net\ClassLibrary\StringOperationsClsLib\StringOperationsClsLib\obj\Debug\StringOperationsClsLib.dll
+D:\c#.net\ClassLibrary\StringOperationsClsLib\StringOperationsClsLib\obj\Debug\StringOperationsClsLib.pdb

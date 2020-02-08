@@ -1,0 +1,7 @@
+D:\c#.net\SimpleClass\SimpleClass\bin\Debug\SimpleClass.exe.config
+D:\c#.net\SimpleClass\SimpleClass\bin\Debug\SimpleClass.exe
+D:\c#.net\SimpleClass\SimpleClass\bin\Debug\SimpleClass.pdb
+D:\c#.net\SimpleClass\SimpleClass\obj\Debug\SimpleClass.csprojResolveAssemblyReference.cache
+D:\c#.net\SimpleClass\SimpleClass\obj\Debug\SimpleClass.csproj.CoreCompileInputs.cache
+D:\c#.net\SimpleClass\SimpleClass\obj\Debug\SimpleClass.exe
+D:\c#.net\SimpleClass\SimpleClass\obj\Debug\SimpleClass.pdb

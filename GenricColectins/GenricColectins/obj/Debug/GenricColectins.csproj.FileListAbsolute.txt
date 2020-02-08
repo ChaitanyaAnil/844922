@@ -1,0 +1,6 @@
+D:\c#.net\GenricColectins\GenricColectins\bin\Debug\GenricColectins.exe.config
+D:\c#.net\GenricColectins\GenricColectins\bin\Debug\GenricColectins.exe
+D:\c#.net\GenricColectins\GenricColectins\bin\Debug\GenricColectins.pdb
+D:\c#.net\GenricColectins\GenricColectins\obj\Debug\GenricColectins.csproj.CoreCompileInputs.cache
+D:\c#.net\GenricColectins\GenricColectins\obj\Debug\GenricColectins.exe
+D:\c#.net\GenricColectins\GenricColectins\obj\Debug\GenricColectins.pdb
