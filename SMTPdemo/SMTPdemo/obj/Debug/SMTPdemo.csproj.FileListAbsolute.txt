@@ -1,0 +1,7 @@
+D:\smtp\SMTPdemo\SMTPdemo\bin\Debug\SMTPdemo.exe.config
+D:\smtp\SMTPdemo\SMTPdemo\bin\Debug\SMTPdemo.exe
+D:\smtp\SMTPdemo\SMTPdemo\bin\Debug\SMTPdemo.pdb
+D:\smtp\SMTPdemo\SMTPdemo\obj\Debug\SMTPdemo.csprojResolveAssemblyReference.cache
+D:\smtp\SMTPdemo\SMTPdemo\obj\Debug\SMTPdemo.csproj.CoreCompileInputs.cache
+D:\smtp\SMTPdemo\SMTPdemo\obj\Debug\SMTPdemo.exe
+D:\smtp\SMTPdemo\SMTPdemo\obj\Debug\SMTPdemo.pdb
